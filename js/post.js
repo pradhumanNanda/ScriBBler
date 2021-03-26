@@ -56,3 +56,4 @@ function cmnt()
 	var text=document.getElementById("cmntText").value;
 	document.getElementById("commentArea").innerHTML+="<p style='background-color:white; margin:10px; padding-top:11px;height:35px;'>"+text+"</p>";
 }
+//completed
