@@ -32,8 +32,8 @@
     font-family: 'Itim', cursive;
     font-weight: bold;
     color: #2b312b;
-    font-size: 25px;
-    height: 25px;
+    font-size: 200%;
+    height: 1%;
     }
 .post-more {
     float: right;
@@ -45,7 +45,7 @@
     font-size: 30px;
 }
 .post-desc{
-    height: 100px;
+    height: 110px;
     margin-bottom: 0 !important;
 }
 
