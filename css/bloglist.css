@@ -47,6 +47,7 @@
 .post-desc{
     height: 110px;
     margin-bottom: 0 !important;
+    overflow-wrap: break-word;
 }
 
 body {
@@ -281,6 +282,3 @@ body {
     border: 1px solid #888;
     width: 30%; 
   }
-p {
-  overflow-wrap: break-word;
-}
