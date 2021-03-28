@@ -281,3 +281,6 @@ body {
     border: 1px solid #888;
     width: 30%; 
   }
+p {
+  overflow-wrap: break-word;
+}
